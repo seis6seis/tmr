@@ -1,0 +1,2 @@
+Hola Javier,
+Haría falta CIF, nombre fiscal, nombre comercial, Grupo Empresarial, sector, actividad, Facturación; nº empleados, nº de PCs, , nombre, apellidos, cargo, área cargo, email, teléfono, dirección, cp, sexo cargo, población, provincia, CC.AA..

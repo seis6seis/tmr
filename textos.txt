@@ -1,0 +1,9 @@
+Metadato
+	CRM Cloud creado para TMR
+
+login
+	Es necesario rellenar todos los campos.
+	El usuario y/o la contraseña no es valido.
+	Identificate
+	Clave
+	Acceso

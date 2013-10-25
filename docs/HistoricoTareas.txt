@@ -1,0 +1,1 @@
+Se crea un campo Visible indicando que campos se mostrara o no en la WEB
