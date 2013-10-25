@@ -29,13 +29,11 @@ $(document).ready(function() {
 	}
 
 	$( "#btnExportarBBDD" ).click(function() {
-		var parametros = {"Accion": "ExportarBBDD", "Empleado": $("#UserList").val(), "TipoExportacion": $("#ExportContactos").val()};
-
 		$(".modal-title").html("Creando CSV");
 		$("#modal-close").hide();
 		$(".modal-body").html("Procesando, espere por favor...<br/><br/><br/><center><img src='./img/loading.gif' alt='Generando fichero' title='Generando fichero' width='40px' height='40px' ></center>");
 		$('#Modal').modal({show: true, keyboard: false,backdrop: false});		
-		document.location.href='ExportarBBDD.php?Accion=ExportarBBDD&Empleado='+$("#UserList").val()+'&TipoExportacion='+$("#ExportContactos").val();
+		document.location.href='lib/ExportarBBDD.php?Accion=ExportarBBDD&Empleado='+$("#UserList").val()+'&TipoExportacion='+$("#ExportContactos").val();
 		$('#Modal').modal('hide');
 	});
 });

@@ -1,6 +1,12 @@
-  <div class="col-md-10">
+  <div class="col-md-10" id="colDerecha">
     <form class="form-inline" role="form" id="formFichaCliente">
+
       <ul class="nav nav-tabs" id="tabFichaEmpresas">
+        <li>
+          <button type="button" class="btn btn-primary" id="btnOcultarListaEmpresas" title="Oculta/Muestra la lista de Empresas">
+            <span class="glyphicon glyphicon-chevron-left"></span>
+          </button>
+        </li>
         <li class="active"><a href="#divDatosEmpresa" data-toggle="tab">D. Empresa</a></li>
         <li><a href="#divProductividad" data-toggle="tab">P. Top</a></li>
         <li><a href="#divOportunidadPCs" data-toggle="tab">O. Venta PCs</a></li>
@@ -76,7 +82,7 @@
         
       </div>
     </form>
-  </div>
+
     <div class="col-md-5">
       <div id="ResultadoEmpresas" class="divResultadoEmpresas">
         <b>Empresas Realizadas:</b>
@@ -91,3 +97,4 @@
         </button>
       </p>
     </div>
+  </div>

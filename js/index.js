@@ -240,4 +240,21 @@ $(document).ready(function() {
 			}
 		});
 	}
+
+
+	$("#btnOcultarListaEmpresas").click(function(){
+		if($('#colIzquierda').hasClass('col-md-2')){
+			$('#colIzquierda').removeClass('col-md-2');
+			$('#colIzquierda').hide();
+			$('#colDerecha').removeClass('col-md-10');
+			$('#colDerecha').addClass('col-md-12');
+			$("#btnOcultarListaEmpresas").html('<span class="glyphicon glyphicon-chevron-right"></span>');
+		}else{
+			$('#colIzquierda').addClass('col-md-2');
+			$('#colIzquierda').show();
+			$('#colDerecha').removeClass('col-md-12');
+			$('#colDerecha').addClass('col-md-10');
+			$("#btnOcultarListaEmpresas").html('<span class="glyphicon glyphicon-chevron-left"></span>');
+		}
+	});
 });

@@ -6,7 +6,7 @@
 
 <div class="container">
   <div class="row">
-    <div class="col-md-2 divEmpresas">
+    <div class="col-md-2" id="colIzquierda">
       <div class="list-group" id="ListEmpresas"></div>
     </div>
 

@@ -36,70 +36,26 @@
 	"buffers":
 	[
 		{
-			"file": "estadisticas.php",
+			"file": "/C/Users/jamartinez/AppData/Roaming/Sublime Text 2/Packages/Git/Git.sublime-settings",
 			"settings":
 			{
-				"buffer_size": 1180,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "js/estadisticas.js",
-			"settings":
-			{
-				"buffer_size": 1716,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "ExportarBBDD.php",
-			"settings":
-			{
-				"buffer_size": 6927,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "admin.php",
-			"settings":
-			{
-				"buffer_size": 2962,
+				"buffer_size": 1367,
 				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "footer.php",
-			"settings":
-			{
-				"buffer_size": 2242,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "js/inputmask.js",
-			"settings":
-			{
-				"buffer_size": 2002,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "header.php",
-			"settings":
-			{
-				"buffer_size": 4017,
-				"line_ending": "Windows"
 			}
 		}
 	],
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 0.0,
+		"height": 311.0,
 		"selected_items":
 		[
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			]
 		],
-		"width": 0.0
+		"width": 400.0
 	},
 	"console":
 	{
@@ -116,29 +72,32 @@
 	},
 	"file_history":
 	[
+		"/C/xampp/htdocs/CRM_TMR/header.php",
+		"/C/xampp/htdocs/CRM_TMR/js/inputmask.js",
+		"/C/xampp/htdocs/CRM_TMR/footer.php",
+		"/C/xampp/htdocs/CRM_TMR/admin.php",
+		"/C/xampp/htdocs/CRM_TMR/ExportarBBDD.php",
+		"/C/xampp/htdocs/CRM_TMR/js/estadisticas.js",
+		"/C/xampp/htdocs/CRM_TMR/estadisticas.php",
+		"/C/Users/jamartinez/AppData/Roaming/Sublime Text 2/Packages/Git/Git.sublime-settings",
 		"/C/xampp/htdocs/mySQL_Provincias/spain_municipios_INE.sql",
 		"/C/xampp/htdocs/mySQL_Provincias/spain_provincias.sql",
 		"/C/xampp/htdocs/CRM_TMR/prueba.php",
 		"/C/xampp/htdocs/CRM_TMR/js/index.js",
 		"/C/xampp/htdocs/CRM_TMR/js/logica.js",
-		"/C/xampp/htdocs/CRM_TMR/header.php",
 		"/C/xampp/htdocs/CRM_TMR/lib/DB_mysql.class - 1and1.php",
 		"/C/xampp/htdocs/CRM_TMR/ajax/admin.php",
 		"/C/xampp/htdocs/CRM_TMR/ajax/estadisticas.php",
 		"/C/xampp/htdocs/CRM_TMR/ajax/ExportarBBDD.php",
-		"/C/xampp/htdocs/CRM_TMR/footer.php",
 		"/C/xampp/htdocs/CRM_TMR/js/admin.js",
 		"/C/xampp/htdocs/CRM_TMR/ajax/index.php",
 		"/C/xampp/htdocs/CRM_TMR/logout.php",
 		"/C/xampp/htdocs/CRM_TMR/index.php",
-		"/C/xampp/htdocs/CRM_TMR/estadisticas.php",
 		"/C/xampp/htdocs/CRM_TMR/login.php",
-		"/C/xampp/htdocs/CRM_TMR/admin.php",
 		"/C/xampp/htdocs/CRM_TMR/interface_derecha.php",
 		"/C/xampp/htdocs/CRM_TMR/js/login.js",
 		"/C/xampp/htdocs/Tutorias-Winchannel/theme/metro/css/bootstrap.css",
 		"/C/xampp/htdocs/bootstrap-demo/index.html",
-		"/C/xampp/htdocs/CRM_TMR/js/estadisticas.js",
 		"/C/xampp/htdocs/CRM_TMR/docs/2013-10-21.sql",
 		"/Y/IberiaCloud/Enviado/EX92.LMFOA.I121210",
 		"/Y/IberiaCloud/Enviado/EX92.LMFOA.I130429",
@@ -198,196 +157,32 @@
 	"groups":
 	[
 		{
-			"selected": 5,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "estadisticas.php",
+					"file": "/C/Users/jamartinez/AppData/Roaming/Sublime Text 2/Packages/Git/Git.sublime-settings",
 					"settings":
 					{
-						"buffer_size": 1180,
+						"buffer_size": 1367,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								698,
-								705
+								1,
+								1
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "js/estadisticas.js",
-					"settings":
-					{
-						"buffer_size": 1716,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1561,
-								1573
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "ExportarBBDD.php",
-					"settings":
-					{
-						"buffer_size": 6927,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								6,
-								6
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "admin.php",
-					"settings":
-					{
-						"buffer_size": 2962,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								765,
-								481
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 135.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "footer.php",
-					"settings":
-					{
-						"buffer_size": 2242,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1613,
-								1613
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "js/inputmask.js",
-					"settings":
-					{
-						"buffer_size": 2002,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1285,
-								1285
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 360.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "header.php",
-					"settings":
-					{
-						"buffer_size": 4017,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 1035.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -401,7 +196,7 @@
 	},
 	"input":
 	{
-		"height": 0.0
+		"height": 31.0
 	},
 	"layout":
 	{
@@ -441,11 +236,11 @@
 	},
 	"select_project":
 	{
-		"height": 0.0,
+		"height": 500.0,
 		"selected_items":
 		[
 		],
-		"width": 0.0
+		"width": 380.0
 	},
 	"show_minimap": true,
 	"show_open_files": false,

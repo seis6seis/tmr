@@ -1,9 +1,9 @@
 body {
 	background: white;
-	padding-top: 70px;
+	padding-top: 55px;
 }
 
-.divEmpresas{
+#colIzquierda{
 	height: 550px;
 	min-height: 200px;
 	overflow-y: auto;
